@@ -8,6 +8,7 @@ module.exports.hello = async (event) => {
         message: 'Go Serverless v1.0! Your function executed successfully!',
         newprop: 'hallo from update',
         thirdprop: 'hoi again',
+        forthprop: 'hoi man',
         input: event,
       },
       null,
